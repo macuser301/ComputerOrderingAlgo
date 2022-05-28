@@ -11,3 +11,4 @@ Order: 9600 Baud Rate Dial Up no# 7578439904jud
 Automate payment processing: $1649.54
 Automate Shipment : UPS 
 Automate Shipment Conformation 
+    a. Update = Double check payment conformation!
